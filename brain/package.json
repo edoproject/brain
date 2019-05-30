@@ -1,0 +1,27 @@
+{
+  "name": "brain",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-scripts": "0.9.5"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.1.4",
+    "nyc": "^14.1.1",
+    "riteway": "^6.0.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "static": "eslint ./src/; eslint ./test/",
+    "test": "nyc --reporter=html --reporter=text mocha --opts test/motcha.opts",
+    "psv": "npm run static && npm run test",
+    "eject": "react-scripts eject"
+  }
+}

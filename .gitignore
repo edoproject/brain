@@ -1,0 +1,27 @@
+# See https://help.github.com/ignore-files/ for more about ignoring files.
+
+# coverage reports
+brain/.nyc_output
+
+# test outputs
+brain/mocha
+
+# dependencies
+brain/node_modules
+
+# Create React App uses Jest as its test runner
+brain/jest
+
+# testing
+brain/coverage
+
+# production
+brain/build
+
+# misc
+.DS_Store
+.env
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
