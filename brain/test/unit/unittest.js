@@ -1,6 +1,5 @@
-const
-    assert = require("assert"),
-    common = require("../../src/common/elements")
+import assert from "assert"
+import whatever from "../../src/common/elements"
 
 describe("unit tests", () => {
     context("unit tests context", () => {
@@ -16,7 +15,7 @@ describe("unit tests", () => {
                 })
 
                 it("Test 1", () => {
-                    assert.equal(common.whatever(), 2)
+                    assert.equal(whatever(), 2)
                 })
             })
         })
