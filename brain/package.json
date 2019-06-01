@@ -20,6 +20,7 @@
     "chai": "^4.2.0",
     "enzyme": "^3.9.0",
     "enzyme-adapter-react-16": "^1.13.2",
+    "eslint-plugin-react": "^7.13.0",
     "mocha": "^6.1.4",
     "nyc": "^14.1.1",
     "riteway": "^6.0.3"

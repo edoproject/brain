@@ -1,6 +1,7 @@
-import React, { Component } from "react"
+import React, { Component } from "react"  // eslint-disable-line no-unused-vars
 
 export class Square extends Component {
+    state = { value: 0 }
     render() {
         return (
             <button className="square">

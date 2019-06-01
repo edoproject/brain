@@ -1,7 +1,11 @@
 import assert from "assert"
-import { shallow } from "enzyme"
+import { configure, shallow } from "enzyme"
 import whatever from "../../src/common/elements"
-import { Square } from "../../src/common/components";
+import { Square } from "../../src/common/components"
+import React from "react"  // eslint-disable-line no-unused-vars
+import Adapter from "enzyme-adapter-react-16"
+
+configure({ adapter: new Adapter() })
 
 describe("unit tests", () => {
     context("unit tests context", () => {
@@ -20,10 +24,10 @@ describe("unit tests", () => {
                     assert.equal(whatever(), 2)
                 })
 
-                it('renders three <Square /> components', () => {
+                it("renders three <Square /> components", () => {
                     const wrapper = shallow(<Square />)
                     console.log(wrapper)
-                });
+                })
             })
         })
     })
