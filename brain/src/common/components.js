@@ -1,7 +1,13 @@
 import React, { Component } from "react"  // eslint-disable-line no-unused-vars
+import PropTypes from "prop-types"
 
 export class Square extends Component {
-    state = { value: 0 }
+    static get propTypes() {
+        return {
+            value: PropTypes.any,
+        }
+    }
+
     render() {
         return (
             <button className="square">
