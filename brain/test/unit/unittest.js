@@ -1,6 +1,6 @@
 import assert from "assert"
 import { configure, shallow } from "enzyme"
-import whatever from "../../src/common/elements"
+import { whatever, branch } from "../../src/common/elements"
 import { Square } from "../../src/common/components"
 import React from "react"  // eslint-disable-line no-unused-vars
 import Adapter from "enzyme-adapter-react-16"
@@ -27,6 +27,11 @@ describe("unit tests", () => {
                 it("renders three <Square /> components", () => {
                     const wrapper = shallow(<Square />)
                     console.log(wrapper)
+                })
+
+                it("branch", async () => {
+                    let a = await branch("car")
+                    console.log(a)
                 })
             })
         })
