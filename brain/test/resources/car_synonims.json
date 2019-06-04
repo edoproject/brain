@@ -1,0 +1,719 @@
+[
+    {
+        "word": "automobile",
+        "score": 44942,
+        "tags": [
+            "syn",
+            "n"
+        ]
+    },
+    {
+        "word": "motorcar",
+        "score": 42926,
+        "tags": [
+            "syn",
+            "n"
+        ]
+    },
+    {
+        "word": "auto",
+        "score": 41818,
+        "tags": [
+            "syn",
+            "n"
+        ]
+    },
+    {
+        "word": "railcar",
+        "score": 35986,
+        "tags": [
+            "syn",
+            "n"
+        ]
+    },
+    {
+        "word": "machine",
+        "score": 33544,
+        "tags": [
+            "syn",
+            "n"
+        ]
+    },
+    {
+        "word": "gondola",
+        "score": 32851,
+        "tags": [
+            "syn",
+            "n"
+        ]
+    },
+    {
+        "word": "cable car",
+        "score": 27240,
+        "tags": [
+            "syn",
+            "n"
+        ]
+    },
+    {
+        "word": "elevator car",
+        "score": 25864,
+        "tags": [
+            "syn",
+            "n"
+        ]
+    },
+    {
+        "word": "railroad car",
+        "score": 25864,
+        "tags": [
+            "syn",
+            "n"
+        ]
+    },
+    {
+        "word": "railway car",
+        "score": 25864,
+        "tags": [
+            "syn",
+            "n"
+        ]
+    },
+    {
+        "word": "vehicle",
+        "score": 25863,
+        "tags": [
+            "n"
+        ]
+    },
+    {
+        "word": "truck",
+        "score": 22354,
+        "tags": [
+            "n"
+        ]
+    },
+    {
+        "word": "sedan",
+        "score": 21014,
+        "tags": [
+            "n"
+        ]
+    },
+    {
+        "word": "van",
+        "score": 20280,
+        "tags": [
+            "n"
+        ]
+    },
+    {
+        "word": "suv",
+        "score": 20123,
+        "tags": [
+            "n"
+        ]
+    },
+    {
+        "word": "vehicles",
+        "score": 19905,
+        "tags": [
+            "n"
+        ]
+    },
+    {
+        "word": "driver",
+        "score": 18912,
+        "tags": [
+            "n"
+        ]
+    },
+    {
+        "word": "cruiser",
+        "score": 18560,
+        "tags": [
+            "n"
+        ]
+    },
+    {
+        "word": "cab",
+        "score": 17491,
+        "tags": [
+            "n"
+        ]
+    },
+    {
+        "word": "tire",
+        "score": 16339,
+        "tags": [
+            "n"
+        ]
+    },
+    {
+        "word": "motor",
+        "score": 15698,
+        "tags": [
+            "n"
+        ]
+    },
+    {
+        "word": "limo",
+        "score": 15557,
+        "tags": [
+            "n"
+        ]
+    },
+    {
+        "word": "passenger",
+        "score": 15422,
+        "tags": [
+            "n"
+        ]
+    },
+    {
+        "word": "taxi",
+        "score": 15374,
+        "tags": [
+            "n"
+        ]
+    },
+    {
+        "word": "bus",
+        "score": 15188,
+        "tags": [
+            "n"
+        ]
+    },
+    {
+        "word": "wheel",
+        "score": 14981,
+        "tags": [
+            "n"
+        ]
+    },
+    {
+        "word": "trunk",
+        "score": 14737,
+        "tags": [
+            "n"
+        ]
+    },
+    {
+        "word": "hood",
+        "score": 14698,
+        "tags": [
+            "n"
+        ]
+    },
+    {
+        "word": "lorry",
+        "score": 14549,
+        "tags": [
+            "n"
+        ]
+    },
+    {
+        "word": "mercedes",
+        "score": 14477,
+        "tags": [
+            "n",
+            "prop"
+        ]
+    },
+    {
+        "word": "buick",
+        "score": 14384,
+        "tags": [
+            "n",
+            "prop"
+        ]
+    },
+    {
+        "word": "automobiles",
+        "score": 14352,
+        "tags": [
+            "n"
+        ]
+    },
+    {
+        "word": "driving",
+        "score": 14185,
+        "tags": [
+            "n"
+        ]
+    },
+    {
+        "word": "boat",
+        "score": 13777,
+        "tags": [
+            "n"
+        ]
+    },
+    {
+        "word": "engine",
+        "score": 13485,
+        "tags": [
+            "n"
+        ]
+    },
+    {
+        "word": "bodywork",
+        "score": 12699,
+        "tags": [
+            "n"
+        ]
+    },
+    {
+        "word": "motoring",
+        "score": 12427,
+        "tags": [
+            "n"
+        ]
+    },
+    {
+        "word": "automotive",
+        "score": 12399,
+        "tags": [
+            "adj"
+        ]
+    },
+    {
+        "word": "trolley",
+        "score": 11965,
+        "tags": [
+            "n"
+        ]
+    },
+    {
+        "word": "wagon",
+        "score": 11908,
+        "tags": [
+            "n"
+        ]
+    },
+    {
+        "word": "wreck",
+        "score": 11765,
+        "tags": [
+            "n"
+        ]
+    },
+    {
+        "word": "escalade",
+        "score": 11706,
+        "tags": [
+            "n"
+        ]
+    },
+    {
+        "word": "chariot",
+        "score": 11349,
+        "tags": [
+            "n"
+        ]
+    },
+    {
+        "word": "carmaker",
+        "score": 11130,
+        "tags": [
+            "n"
+        ]
+    },
+    {
+        "word": "cart",
+        "score": 11112,
+        "tags": [
+            "n"
+        ]
+    },
+    {
+        "word": "backseat",
+        "score": 10988,
+        "tags": [
+            "n"
+        ]
+    },
+    {
+        "word": "cadillac",
+        "score": 10960,
+        "tags": [
+            "n",
+            "prop"
+        ]
+    },
+    {
+        "word": "train",
+        "score": 10865,
+        "tags": [
+            "n"
+        ]
+    },
+    {
+        "word": "automaker",
+        "score": 10685,
+        "tags": [
+            "n"
+        ]
+    },
+    {
+        "word": "motors",
+        "score": 10609,
+        "tags": [
+            "n"
+        ]
+    },
+    {
+        "word": "autos",
+        "score": 10280,
+        "tags": [
+            "n"
+        ]
+    },
+    {
+        "word": "carload",
+        "score": 10263,
+        "tags": [
+            "n"
+        ]
+    },
+    {
+        "word": "cabin",
+        "score": 10113,
+        "tags": [
+            "n"
+        ]
+    },
+    {
+        "word": "road",
+        "score": 9898,
+        "tags": [
+            "n"
+        ]
+    },
+    {
+        "word": "carpark",
+        "score": 9868,
+        "tags": [
+            "n"
+        ]
+    },
+    {
+        "word": "drive",
+        "score": 9853,
+        "tags": [
+            "n"
+        ]
+    },
+    {
+        "word": "accident",
+        "score": 9624,
+        "tags": [
+            "n"
+        ]
+    },
+    {
+        "word": "parking",
+        "score": 9546,
+        "tags": [
+            "n"
+        ]
+    },
+    {
+        "word": "valet",
+        "score": 9392,
+        "tags": [
+            "n"
+        ]
+    },
+    {
+        "word": "vehicular",
+        "score": 9266,
+        "tags": [
+            "adj"
+        ]
+    },
+    {
+        "word": "crate",
+        "score": 8860,
+        "tags": [
+            "n"
+        ]
+    },
+    {
+        "word": "boxcar",
+        "score": 8754,
+        "tags": [
+            "n"
+        ]
+    },
+    {
+        "word": "beater",
+        "score": 8710,
+        "tags": [
+            "n"
+        ]
+    },
+    {
+        "word": "malibu",
+        "score": 8671,
+        "tags": [
+            "n",
+            "prop"
+        ]
+    },
+    {
+        "word": "carriage",
+        "score": 8650,
+        "tags": [
+            "n"
+        ]
+    },
+    {
+        "word": "body",
+        "score": 8534,
+        "tags": [
+            "n"
+        ]
+    },
+    {
+        "word": "tank",
+        "score": 8469,
+        "tags": [
+            "n"
+        ]
+    },
+    {
+        "word": "compartment",
+        "score": 8392,
+        "tags": [
+            "n"
+        ]
+    },
+    {
+        "word": "caboose",
+        "score": 8315,
+        "tags": [
+            "n"
+        ]
+    },
+    {
+        "word": "traffic",
+        "score": 8301,
+        "tags": [
+            "n"
+        ]
+    },
+    {
+        "word": "ride",
+        "score": 8044,
+        "tags": [
+            "n"
+        ]
+    },
+    {
+        "word": "bomb",
+        "score": 7480,
+        "tags": [
+            "n"
+        ]
+    },
+    {
+        "word": "wagons",
+        "score": 7290,
+        "tags": [
+            "n"
+        ]
+    },
+    {
+        "word": "glove",
+        "score": 7223,
+        "tags": [
+            "n"
+        ]
+    },
+    {
+        "word": "machinery",
+        "score": 6717,
+        "tags": [
+            "n"
+        ]
+    },
+    {
+        "word": "cashier",
+        "score": 6671,
+        "tags": [
+            "n"
+        ]
+    },
+    {
+        "word": "consignment",
+        "score": 5458,
+        "tags": [
+            "n"
+        ]
+    },
+    {
+        "word": "pull",
+        "score": 5386,
+        "tags": [
+            "n"
+        ]
+    },
+    {
+        "word": "warrant",
+        "score": 5251,
+        "tags": [
+            "n"
+        ]
+    },
+    {
+        "word": "cash",
+        "score": 5206,
+        "tags": [
+            "n"
+        ]
+    },
+    {
+        "word": "bombs",
+        "score": 5200,
+        "tags": [
+            "n"
+        ]
+    },
+    {
+        "word": "conveyance",
+        "score": 5195,
+        "tags": [
+            "n"
+        ]
+    },
+    {
+        "word": "carla",
+        "score": 4964,
+        "tags": [
+            "n",
+            "prop"
+        ]
+    },
+    {
+        "word": "mine",
+        "score": 4794,
+        "tags": [
+            "n"
+        ]
+    },
+    {
+        "word": "suicide",
+        "score": 4728,
+        "tags": [
+            "n"
+        ]
+    },
+    {
+        "word": "unit",
+        "score": 4599,
+        "tags": [
+            "n"
+        ]
+    },
+    {
+        "word": "box",
+        "score": 4428,
+        "tags": [
+            "n"
+        ]
+    },
+    {
+        "word": "because",
+        "score": 4395,
+        "tags": [
+            "n"
+        ]
+    },
+    {
+        "word": "jaguar",
+        "score": 4387,
+        "tags": [
+            "n"
+        ]
+    },
+    {
+        "word": "pinto",
+        "score": 3840,
+        "tags": [
+            "n",
+            "prop"
+        ]
+    },
+    {
+        "word": "nativity",
+        "score": 3822,
+        "tags": [
+            "n"
+        ]
+    },
+    {
+        "word": "shoot",
+        "score": 3783,
+        "tags": [
+            "n"
+        ]
+    },
+    {
+        "word": "hop",
+        "score": 3582,
+        "tags": [
+            "n"
+        ]
+    },
+    {
+        "word": "acr",
+        "score": 3461,
+        "tags": [
+            "n"
+        ]
+    },
+    {
+        "word": "coach",
+        "score": 3453,
+        "tags": [
+            "n"
+        ]
+    },
+    {
+        "word": "fund",
+        "score": 3335,
+        "tags": [
+            "n"
+        ]
+    },
+    {
+        "word": "cln",
+        "score": 3188,
+        "tags": [
+            "n",
+            "prop"
+        ]
+    },
+    {
+        "word": "float",
+        "score": 3054,
+        "tags": [
+            "n"
+        ]
+    },
+    {
+        "word": "bandwagon",
+        "score": 3024,
+        "tags": [
+            "n"
+        ]
+    },
+    {
+        "word": "lading",
+        "score": 3016,
+        "tags": [
+            "n"
+        ]
+    }
+]
