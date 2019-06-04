@@ -5,7 +5,12 @@ import Tree from "react-tree-graph"
 import { tree } from "./common/elements"
 import "./style/graph.css"
 
-tree("car").then((data) => {
+tree({
+    word: "car",
+    reverse: true,
+    width: 3,
+    depth: 3,
+}).then((data) => {
     ReactDOM.render(
         <div className="custom-container">
             <Tree
